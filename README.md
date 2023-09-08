@@ -1,1 +1,3 @@
-# algorithms
+# Algorithms
+
+Exercises to practice 👩‍🎓 📔 
